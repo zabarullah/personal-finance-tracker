@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/personal-finance-tracker/static/css/main.63c06199.css",
+    "main.js": "/personal-finance-tracker/static/js/main.e07752fb.js",
+    "static/js/453.b136a892.chunk.js": "/personal-finance-tracker/static/js/453.b136a892.chunk.js",
+    "index.html": "/personal-finance-tracker/index.html",
+    "main.63c06199.css.map": "/personal-finance-tracker/static/css/main.63c06199.css.map",
+    "main.e07752fb.js.map": "/personal-finance-tracker/static/js/main.e07752fb.js.map",
+    "453.b136a892.chunk.js.map": "/personal-finance-tracker/static/js/453.b136a892.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63c06199.css",
+    "static/js/main.e07752fb.js"
+  ]
+}
